@@ -24,7 +24,7 @@
 
 ## 🚀 Быстрый старт
 
-1. **Скачай** `FLIPTUNE.exe` из раздела [Releases](https://github.com/flip7821/fliptune/releases/latest).
+1. **Скачай** `FLIPTUNE.exe` из раздела [Releases](https://github.com/flip7821/Windows-optimization-FlipTune-/releases/tag/v1).
 2. **Запусти от имени администратора** (правой кнопкой → «Запуск от имени администратора»).
 3. В главном меню выбери нужный пункт (например, `1` – Performance Mode, `4` – Gaming Mode, `9` – только игровые твики).
 4. Для безопасного эксперимента сначала включи **Dry‑run** (клавиша `D`) – программа покажет, что будет сделано, но ничего не изменит.
